@@ -1,123 +1,46 @@
+# 👋 Hi, I’m Blessing Clement  
+
+I’m a **Website & IT Specialist** with experience in managing websites, improving SEO, and ensuring digital presence for businesses.  
+I specialize in **WordPress, Shopify, and custom website management**, helping organizations boost visibility, security, and user experience.  
+
 ---
-layout: default
+
+## 🔹 About Me  
+- 💻 Skilled in **Website Management, SEO, WordPress, Shopify, and IT Support**  
+- 🌍 Worked on projects across **real estate, corporate, and e-commerce industries**  
+- ⚡ Passionate about helping businesses grow with technology  
+- 🎯 Currently open to **Website Manager / IT roles**  
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🚀 Featured Projects  
 
-[Link to another page](./another-page.html).
+### 🏡 [Naijahouses](https://naijahouses.com)  
+Property listing platform where I contributed to **website structure, user experience, and content optimization**.  
 
-There should be whitespace between paragraphs.
+### 🌐 [RogaAfrica](https://rogaafrica.org) *(WordPress)*  
+Corporate website designed and managed using **WordPress**, ensuring responsiveness and SEO best practices.  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 🛒 Shopify Store  
+Developed and customized an **e-commerce store** using Shopify, optimizing for **performance and product visibility**.  
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🛠 Skills  
+- Website Management & Development  
+- WordPress & Shopify  
+- SEO & Digital Marketing  
+- IT Support & Security  
+- Social Media Management  
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 📬 Contact Me  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 🐙 GitHub: [Blessing-Clems20](https://github.com/Blessing-Clems20)  
+- 🐦 Twitter: [@your-handle](https://twitter.com/your-handle)  
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+⭐ **Check out my projects above, and feel free to reach out for collaborations or opportunities!**
