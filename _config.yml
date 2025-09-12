@@ -32,3 +32,9 @@ skills:
   - Shopify Development
   - IT Support & Security
   - Social Media Management
+
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects
