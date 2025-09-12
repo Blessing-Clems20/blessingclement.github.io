@@ -38,3 +38,13 @@ nav:
     link: /
   - name: "Projects"
     link: /projects
+  - name: "Naijahouses"
+    link: /naijahouses
+  - name: "RogaAfrica"
+    link: /rogaafrica
+  - name: "Shopify Store"
+    link: /shopify
+  - name: "Afritailore"
+    link: /afritailore
+  - name: "Resume"
+    link: /resume
