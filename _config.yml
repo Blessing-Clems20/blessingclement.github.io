@@ -1,5 +1,34 @@
-title: Blessing Clement
-description: Website & IT Specialist | WordPress, Shopify, SEO & Web Management.
+title: "Blessing Clement"
+description: "Website & IT Specialist | Skilled in Website Management, SEO, WordPress, Shopify, and Digital Presence"
 show_downloads: false
-google_analytics:
+google_analytics: 
+
 theme: jekyll-theme-cayman
+
+# Personal Info
+author: "Blessing Clement"
+email: "blessingclems20@gmail.com"
+linkedin: "https://www.linkedin.com/in/blessing-clement-7a1648363/"
+github: "https://github.com/Blessing-Clems20"
+
+# Portfolio Sections
+projects:
+  - name: "Naijahouses"
+    description: "Property listing platform where I managed website structure, user experience, and content optimization."
+    link: "https://naijahouses.com"
+
+  - name: "RogaAfrica"
+    description: "Corporate website built on WordPress, optimized for responsiveness and SEO."
+    link: "https://rogaafrica.org"
+
+  - name: "Shopify Store"
+    description: "Developed and customized an e-commerce store using Shopify, focusing on performance and product visibility."
+    link: "#"
+
+skills:
+  - Website Management
+  - SEO Optimization
+  - WordPress Development
+  - Shopify Development
+  - IT Support & Security
+  - Social Media Management
